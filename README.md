@@ -1,1 +1,2 @@
-# stat443-forecast-project
+This project investigates the predictability of daily mean temperature in Delhi, India, using historical observations and three explanatory variables: humidity, wind speed, and mean pressure. The dataset spans from January 1, 2013 to April 24, 2017, and model performance is evaluated using out-of-sample RMSE based on a holdout test set. 
+We compare four classes of models: (1) simple baseline rules, (2) exponential smoothing, (3) ARIMA models without explanatory variables, and (4) ARIMAX models incorporating external predictors.
